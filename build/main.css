@@ -5,8 +5,12 @@
   font-family: sans-serif;
 }
 
+.produtos {
+  background-color: green;
+}
+
 body {
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 /*# sourceMappingURL=main.css.map */
